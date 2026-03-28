@@ -144,6 +144,3 @@ npm run dev
 
 Lidia Tomus
 
----
-
-Just tell me 👍
